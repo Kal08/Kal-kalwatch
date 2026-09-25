@@ -1,0 +1,8 @@
+{
+  "name": "WatchTogether",
+  "description": "A synchronized YouTube watch party app designed for long-distance couples.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
